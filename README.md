@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Drive Sense
 A HarmonyOS ArkTS wearable app that monitors and evaluates driving behavior in real time. It uses accelerometer and gyroscope sensors to detect harsh braking, sharp turns, and stop-and-go events, providing instant feedback with animations and storing driving summaries locally.
